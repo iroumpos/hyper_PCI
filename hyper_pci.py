@@ -68,7 +68,8 @@ def additive_hyperpci(G,graph):
     return results
 
 if __name__ == "__main__":
-    filepath = '/home/johnr/Documents/hyper_pci/cat-edge-algebra-questions/hyperedges.txt'
+    # Replace the filepath with the wanted one
+    filepath = '/cat-edge-algebra-questions/hyperedges.txt'
     graph = create_graph(filepath)
     G = hnx.Hypergraph(graph)
     
