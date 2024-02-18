@@ -15,5 +15,8 @@ passed in a .txt file.\
 **Datasets**\
 The datasets that are used for this project where taken from the following link
 [https://www.cs.cornell.edu/~arb/data/](datasets) and the choise was made in the premise
-that they will cover a big variety regarding their size, the number of hyperedges and their cardinality.
-
+that they will cover a big variety regarding their size, the number of hyperedges and their cardinality.\
+\
+**Results**\
+The **hyperpci_results.txt** file contains the results from executing the 3 variations for the dataset 
+cat-edge-algebra-questions.
